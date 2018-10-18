@@ -1,0 +1,11 @@
+{
+  "autoConnect": false,
+  "connection": {
+    "host": "mpcdl.cs.nctu.edu.tw",
+    "username": "weichiao",
+    "password": "erica0756527",
+    "port": "22"
+  },
+  "basePath": "/home/weichiao/git/github/nctucourse/dm_2018_hw_1/helpers",
+  "ignore": [".git", "src/node_modules"]
+}
