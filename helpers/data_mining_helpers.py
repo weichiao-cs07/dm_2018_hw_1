@@ -12,7 +12,7 @@ W - words
 l - letter
 """
 
-
+'''
 def format_rows(docs):
     """ format the text field and strip special characters """
     D = []
@@ -20,7 +20,7 @@ def format_rows(docs):
         temp_d = " ".join(d.split("\n")).strip('\t')
         D.append([temp_d])
     return D
-
+'''
 
 def format_labels(target, docs):
     """ format the labels """
